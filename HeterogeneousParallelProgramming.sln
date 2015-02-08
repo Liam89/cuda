@@ -12,6 +12,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libwb", "libwb\libwb.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorAddition", "VectorAddition\VectorAddition.vcxproj", "{9DBB6CA6-24DF-4B91-B572-969D11A55F66}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicMatrixMultiplication", "BasicMatrixMultiplication\BasicMatrixMultiplication.vcxproj", "{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -42,6 +44,14 @@ Global
 		{9DBB6CA6-24DF-4B91-B572-969D11A55F66}.Release|Win32.Build.0 = Release|Win32
 		{9DBB6CA6-24DF-4B91-B572-969D11A55F66}.Release|x64.ActiveCfg = Release|x64
 		{9DBB6CA6-24DF-4B91-B572-969D11A55F66}.Release|x64.Build.0 = Release|x64
+		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Debug|Win32.Build.0 = Debug|Win32
+		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Debug|x64.ActiveCfg = Debug|x64
+		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Debug|x64.Build.0 = Debug|x64
+		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Release|Win32.ActiveCfg = Release|Win32
+		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Release|Win32.Build.0 = Release|Win32
+		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Release|x64.ActiveCfg = Release|x64
+		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
