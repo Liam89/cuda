@@ -14,6 +14,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorAddition", "VectorAdd
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicMatrixMultiplication", "BasicMatrixMultiplication\BasicMatrixMultiplication.vcxproj", "{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TiledMatrixMultiplication", "TiledMatrixMultiplication\TiledMatrixMultiplication.vcxproj", "{B8AC27C7-4551-42FF-B941-813B38115077}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -52,6 +54,14 @@ Global
 		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Release|Win32.Build.0 = Release|Win32
 		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Release|x64.ActiveCfg = Release|x64
 		{7152B9D1-BF0D-4D9A-9223-DD6C5E42A938}.Release|x64.Build.0 = Release|x64
+		{B8AC27C7-4551-42FF-B941-813B38115077}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B8AC27C7-4551-42FF-B941-813B38115077}.Debug|Win32.Build.0 = Debug|Win32
+		{B8AC27C7-4551-42FF-B941-813B38115077}.Debug|x64.ActiveCfg = Debug|x64
+		{B8AC27C7-4551-42FF-B941-813B38115077}.Debug|x64.Build.0 = Debug|x64
+		{B8AC27C7-4551-42FF-B941-813B38115077}.Release|Win32.ActiveCfg = Release|Win32
+		{B8AC27C7-4551-42FF-B941-813B38115077}.Release|Win32.Build.0 = Release|Win32
+		{B8AC27C7-4551-42FF-B941-813B38115077}.Release|x64.ActiveCfg = Release|x64
+		{B8AC27C7-4551-42FF-B941-813B38115077}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
