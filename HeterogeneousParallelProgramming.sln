@@ -16,6 +16,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicMatrixMultiplication",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TiledMatrixMultiplication", "TiledMatrixMultiplication\TiledMatrixMultiplication.vcxproj", "{B8AC27C7-4551-42FF-B941-813B38115077}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageConvolution", "ImageConvolution\ImageConvolution.vcxproj", "{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -62,6 +64,14 @@ Global
 		{B8AC27C7-4551-42FF-B941-813B38115077}.Release|Win32.Build.0 = Release|Win32
 		{B8AC27C7-4551-42FF-B941-813B38115077}.Release|x64.ActiveCfg = Release|x64
 		{B8AC27C7-4551-42FF-B941-813B38115077}.Release|x64.Build.0 = Release|x64
+		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Debug|Win32.Build.0 = Debug|Win32
+		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Debug|x64.ActiveCfg = Debug|x64
+		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Debug|x64.Build.0 = Debug|x64
+		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Release|Win32.ActiveCfg = Release|Win32
+		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Release|Win32.Build.0 = Release|Win32
+		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Release|x64.ActiveCfg = Release|x64
+		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
