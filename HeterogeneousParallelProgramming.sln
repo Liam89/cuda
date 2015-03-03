@@ -18,6 +18,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TiledMatrixMultiplication",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageConvolution", "ImageConvolution\ImageConvolution.vcxproj", "{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListReduction", "ListReduction\ListReduction.vcxproj", "{8263516A-4B9D-4760-91C4-7910711BFB71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -72,6 +74,14 @@ Global
 		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Release|Win32.Build.0 = Release|Win32
 		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Release|x64.ActiveCfg = Release|x64
 		{F16EE519-4CD5-44FE-AC3E-803AC1B5F515}.Release|x64.Build.0 = Release|x64
+		{8263516A-4B9D-4760-91C4-7910711BFB71}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8263516A-4B9D-4760-91C4-7910711BFB71}.Debug|Win32.Build.0 = Debug|Win32
+		{8263516A-4B9D-4760-91C4-7910711BFB71}.Debug|x64.ActiveCfg = Debug|x64
+		{8263516A-4B9D-4760-91C4-7910711BFB71}.Debug|x64.Build.0 = Debug|x64
+		{8263516A-4B9D-4760-91C4-7910711BFB71}.Release|Win32.ActiveCfg = Release|Win32
+		{8263516A-4B9D-4760-91C4-7910711BFB71}.Release|Win32.Build.0 = Release|Win32
+		{8263516A-4B9D-4760-91C4-7910711BFB71}.Release|x64.ActiveCfg = Release|x64
+		{8263516A-4B9D-4760-91C4-7910711BFB71}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
