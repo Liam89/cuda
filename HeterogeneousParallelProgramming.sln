@@ -20,6 +20,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageConvolution", "ImageCo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListReduction", "ListReduction\ListReduction.vcxproj", "{8263516A-4B9D-4760-91C4-7910711BFB71}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Histogram", "Histogram\Histogram.vcxproj", "{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -82,6 +84,14 @@ Global
 		{8263516A-4B9D-4760-91C4-7910711BFB71}.Release|Win32.Build.0 = Release|Win32
 		{8263516A-4B9D-4760-91C4-7910711BFB71}.Release|x64.ActiveCfg = Release|x64
 		{8263516A-4B9D-4760-91C4-7910711BFB71}.Release|x64.Build.0 = Release|x64
+		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Debug|Win32.Build.0 = Debug|Win32
+		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Debug|x64.ActiveCfg = Debug|x64
+		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Debug|x64.Build.0 = Debug|x64
+		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Release|Win32.ActiveCfg = Release|Win32
+		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Release|Win32.Build.0 = Release|Win32
+		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Release|x64.ActiveCfg = Release|x64
+		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
