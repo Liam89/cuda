@@ -42,7 +42,9 @@ __global__ void total(float * input, float * output, int len) {
 	//@@ Write the computed sum of the block to the output vector at the 
 	//@@ correct index
 	__syncthreads();
-	output[blockIdx.x] = partialSum[0];
+	if (t == 0) {
+		output[blockIdx.x] = partialSum[0];
+	}
 }
 
 int main(int argc, char ** argv) {
