@@ -22,6 +22,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListReduction", "ListReduct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Histogram", "Histogram\Histogram.vcxproj", "{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorAdditionWithStreams", "VectorAdditionWithStreams\VectorAdditionWithStreams.vcxproj", "{E2DA4458-8950-4F67-B21D-5ABD92869CBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -92,6 +94,14 @@ Global
 		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Release|Win32.Build.0 = Release|Win32
 		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Release|x64.ActiveCfg = Release|x64
 		{9175F2F2-B997-4AC9-BA49-95DC804DD6F6}.Release|x64.Build.0 = Release|x64
+		{E2DA4458-8950-4F67-B21D-5ABD92869CBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2DA4458-8950-4F67-B21D-5ABD92869CBE}.Debug|Win32.Build.0 = Debug|Win32
+		{E2DA4458-8950-4F67-B21D-5ABD92869CBE}.Debug|x64.ActiveCfg = Debug|x64
+		{E2DA4458-8950-4F67-B21D-5ABD92869CBE}.Debug|x64.Build.0 = Debug|x64
+		{E2DA4458-8950-4F67-B21D-5ABD92869CBE}.Release|Win32.ActiveCfg = Release|Win32
+		{E2DA4458-8950-4F67-B21D-5ABD92869CBE}.Release|Win32.Build.0 = Release|Win32
+		{E2DA4458-8950-4F67-B21D-5ABD92869CBE}.Release|x64.ActiveCfg = Release|x64
+		{E2DA4458-8950-4F67-B21D-5ABD92869CBE}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
